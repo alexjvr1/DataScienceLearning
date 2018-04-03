@@ -1,8 +1,12 @@
-# Calculus I
+# Calculus & Calculus I
 
-Starts 16 April
+Starts 16 April and 28 April
 
-https://docs.cs50.net/2018/x/psets/0/pset0.html
+Both are from coursera
+
+https://www.coursera.org/learn/single-variable-calculus/supplement/RtS88/your-guide-to-getting-started-in-this-course
+
+
 
 29 March: completed wk 1 apart from 2 quizzes
 
